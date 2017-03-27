@@ -1,4 +1,25 @@
+body{
+    background-color: #a6a6a6;
+}
 a{
     text-decoration: none;
-    color: #1531ff;
+    color: #ff2342;
+}
+h2{
+    text-align: center;
+    color: teal;
+}
+.block {
+    height: auto;
+    width: auto;
+    background-color: aquamarine;
+    border-radius: 3px;
+    padding: 10px;
+    margin: 20px 0 20px 0;
+}
+.block p{
+    font-size: 20px;
+    padding: 0;
+
+
 }
