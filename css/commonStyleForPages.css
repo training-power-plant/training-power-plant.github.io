@@ -7,19 +7,20 @@ a{
 }
 h2{
     text-align: center;
-    color: teal;
+    color: #ff0706;
+    font-family: Tahoma, serif;
 }
 .block {
     height: auto;
     width: auto;
-    background-color: aquamarine;
-    border-radius: 3px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
     padding: 10px;
     margin: 20px 0 20px 0;
 }
 .block p{
     font-size: 20px;
-    padding: 0;
-
-
+    margin-bottom: 10px;
+    color: #2d2d60;
+    font-family: Tahoma, serif;
 }
