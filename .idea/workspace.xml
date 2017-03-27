@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b5e1b52-bca5-4ed9-ba92-bb8262f1241b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/SERJ.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/SERJ.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/_6_5.html" afterPath="$PROJECT_DIR$/pages/_6_5.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="205" column="22" lean-forward="false" selection-start-line="205" selection-start-column="22" selection-end-line="205" selection-end-column="22" />
+            <state relative-caret-position="320">
+              <caret line="216" column="35" lean-forward="true" selection-start-line="216" selection-start-column="35" selection-end-line="216" selection-end-column="35" />
               <folding>
                 <element signature="n#select#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -287,7 +285,7 @@
       <workItem from="1488548311058" duration="8072000" />
       <workItem from="1489512364885" duration="11000" />
       <workItem from="1490614146999" duration="917000" />
-      <workItem from="1490618658687" duration="8544000" />
+      <workItem from="1490618658687" duration="8820000" />
     </task>
     <task id="LOCAL-00001" summary="26">
       <created>1488456042033</created>
@@ -415,11 +413,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490626636544</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="6">
+      <created>1490627289254</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1490627289254</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111543000" />
+    <option name="totallyTimeSpent" value="111819000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -462,7 +467,8 @@
     <MESSAGE value="2" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -834,8 +840,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="205" column="22" lean-forward="false" selection-start-line="205" selection-start-column="22" selection-end-line="205" selection-end-column="22" />
+        <state relative-caret-position="320">
+          <caret line="216" column="35" lean-forward="true" selection-start-line="216" selection-start-column="35" selection-end-line="216" selection-end-column="35" />
           <folding>
             <element signature="n#select#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
