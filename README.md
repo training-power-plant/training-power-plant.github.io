@@ -1,0 +1,2 @@
+# trainingpowerplant.github.io
+конспект
