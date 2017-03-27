@@ -1,9 +1,9 @@
 body{
     background-color: #a6a6a6;
 }
-a{
+.content p a{
     text-decoration: none;
-    color: #ff2342;
+    color: #1531ff;
 }
 h2{
     text-align: center;
