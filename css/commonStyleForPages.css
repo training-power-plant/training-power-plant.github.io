@@ -35,7 +35,20 @@ h2{
     position: fixed;
     bottom: 1%;
     right: 1%;
-
+}
+span {
+    color: #a6310c;
+    font-style: italic;
+}
+a.link {
+    font-size: larger;
+    text-decoration: none;
+    width: auto;
+    height: auto;
+    background: linear-gradient( #a4a8aa, #737373);
+    border-radius: 5px;
+    text-align: right;
+    padding: 5px;
 }
 
 
