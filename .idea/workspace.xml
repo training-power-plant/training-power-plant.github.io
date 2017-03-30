@@ -21,8 +21,8 @@
       <file leaf-file-name="doc2&amp;1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/doc2&amp;1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="132" column="65" lean-forward="false" selection-start-line="132" selection-start-column="65" selection-end-line="132" selection-end-column="65" />
+            <state relative-caret-position="202">
+              <caret line="158" column="41" lean-forward="false" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="41" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -60,6 +60,11 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>свойства</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -314,7 +319,7 @@
       <workItem from="1490635852153" duration="364000" />
       <workItem from="1490776866933" duration="1652000" />
       <workItem from="1490804164047" duration="17554000" />
-      <workItem from="1490865240648" duration="6163000" />
+      <workItem from="1490865240648" duration="6360000" />
     </task>
     <task id="LOCAL-00001" summary="26">
       <created>1488456042033</created>
@@ -596,11 +601,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490870151601</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="28">
+      <created>1490871468051</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1490871468051</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144410000" />
+    <option name="totallyTimeSpent" value="144607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -632,7 +644,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="34" />
     <MESSAGE value="2" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
@@ -657,7 +668,8 @@
     <MESSAGE value="25" />
     <MESSAGE value="26" />
     <MESSAGE value="27" />
-    <option name="LAST_COMMIT_MESSAGE" value="27" />
+    <MESSAGE value="28" />
+    <option name="LAST_COMMIT_MESSAGE" value="28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -965,8 +977,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/doc2&amp;1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="132" column="65" lean-forward="false" selection-start-line="132" selection-start-column="65" selection-end-line="132" selection-end-column="65" />
+        <state relative-caret-position="202">
+          <caret line="158" column="41" lean-forward="false" selection-start-line="158" selection-start-column="33" selection-end-line="158" selection-end-column="41" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
